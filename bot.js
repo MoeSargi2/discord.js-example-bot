@@ -6,7 +6,7 @@ var bot = new Discord.Client();
 
 // Events.
 bot.on("ready", function() {
-    bot.user.setGame(`Hi, Im New Bot On Discord!`);
+    bot.user.setGame(`verifing PayPal accs`);
     console.log(`${bot.user.username} is Ready!`);
 });
 
